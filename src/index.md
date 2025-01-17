@@ -7,20 +7,17 @@ heroImageDark: /images/ninja-turtles.png
 heroText: 'team blog@sunsin.shop'
 title: team.sunsin
 
-tagline: We are a professional team that works affectionately, and above all, grows with our colleagues.
+tagline: jiwon's blog
 
 actions:
-  - text: tech SHARE
-    link: /tech/share
+  - text: GITHUB
+    link: https://github.com/jiwon1118
     type: primary
   
-  - text: team TIGER
-    link: /team/tiger
+  - text: RESUME
+    link: /resume
     type: secondary
 
-  - text: open SOURCE
-    link: /tech/share/opensource
-    type: secondary
 
 features:
 - title: team TIGER
@@ -30,5 +27,5 @@ features:
 - title: mallowLINK
   details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
 
-footer: THE TIGER@cashmallow who has returned the favor. 2016.
+footer: blog@jiwon. 2025.
 ---

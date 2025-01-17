@@ -81,14 +81,14 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "jiown", link: "https://www.cashmallow.com" },
+      { text: "resume", link: "/resume" },
     ],
 
     sidebar: {
       "/": [
         {
-          text: "share",
+          text: "resume",
           collapsible: true,
           children: [
             "/tech/share/",
