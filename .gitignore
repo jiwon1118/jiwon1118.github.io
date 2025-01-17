@@ -8,3 +8,7 @@ node_modules
 /.idea/vcs.xml
 /.idea/misc.xml
 /.idea/.gitignore
+
+
+#docs 폴더 전체 무시
+/docs/*
