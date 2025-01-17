@@ -9,8 +9,8 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team SUNSIN',
-  description: "We are a professional team that works affectionately, and above all, grows with our colleagues.",
+  title: 'Jiwon',
+  description: "study hard.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
@@ -91,7 +91,12 @@ export default defineUserConfig({
           text: "resume",
           collapsible: true,
           children: [
-            "/resume/#executive-summary/",
+            "/resume/#executive-summary",
+	    "/resume/#working-experience",
+	    "/resume/#projects",
+	    "/resume/#education-qualifications",
+	    "/resume/#misc-information",
+	
           ],
         },
         {
