@@ -81,7 +81,7 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "jiown", link: "https://www.cashmallow.com" },
+      { text: "jiwon", link: "https://github.com/jiwon1118" },
       { text: "resume", link: "/resume" },
     ],
 
@@ -91,7 +91,7 @@ export default defineUserConfig({
           text: "resume",
           collapsible: true,
           children: [
-            "/tech/share/",
+            "/resume/#executive-summary/",
           ],
         },
         {
@@ -127,3 +127,4 @@ export default defineUserConfig({
   ],
 
 })
+
