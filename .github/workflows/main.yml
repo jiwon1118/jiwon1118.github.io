@@ -33,7 +33,7 @@ jobs:
       - name: Build Docs
         run: npm run docs:build
       - name: COPY Files
-        run: sh cp-fils.sh
+        run: sh cp-files.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
