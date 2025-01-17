@@ -16,7 +16,7 @@ export default defineUserConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'tech-blog:jiwon1118' }],
     ['meta', { property: 'og:description', content: "Hello!" }],
-    ['meta', { property: 'og:image', content: 'https://user-images.githubusercontent.com/120996497/209457891-2c91f7fe-514d-4431-bfcb-7f6ee72ed8ee.png' }],
+    ['meta', { property: 'og:image', content: 'https://jiwon1118.github.io/images/jiwon-template.png' }],
     ['meta', { property: 'og:url', content: 'https://jiwon1118.github.io' }],
   ],
   
@@ -81,7 +81,7 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "jiown", link: "https://www.cashmallow.com" },
+      { text: "jiwon", link: "https://github.com/jiwon1118" },
       { text: "resume", link: "/resume" },
     ],
 
@@ -91,7 +91,7 @@ export default defineUserConfig({
           text: "resume",
           collapsible: true,
           children: [
-            "/tech/share/",
+            "/resume/#executive-summary/",
           ],
         },
         {
@@ -127,3 +127,4 @@ export default defineUserConfig({
   ],
 
 })
+

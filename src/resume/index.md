@@ -1,12 +1,11 @@
-# RESUME
 
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/park.png">
 
 <span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Korea
+  someone@gmail.com <br> mobile: +82 xxxxxxxx <br> Nationality: Korea
 </span>
 
-# Casualwriter  
+# JIWON
 
 ## Executive Summary
 
@@ -46,5 +45,5 @@
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
+* Languages: English (soso), Korean (fluent/native), Mandarin (good)
 * Availability: 1 month's notice
