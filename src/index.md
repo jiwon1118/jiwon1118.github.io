@@ -27,5 +27,5 @@ features:
 - title: mallowLINK
   details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
 
-footer: @jiwon. 2025.
+footer: blog@jiwon. 2025.
 ---
