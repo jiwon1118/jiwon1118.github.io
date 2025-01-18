@@ -9,7 +9,7 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'Jiwon',
+  title: 'team sunsin',
   description: "study hard.",
 
   head: [
@@ -63,8 +63,8 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/ninja-turtles.png",
-    logoDark: "/images/hero.webp",
+    logo: "/images/leaf.png",
+    logoDark: "/images/apple.png",
 
     repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
     repoLabel: "discussions",
@@ -94,8 +94,8 @@ export default defineUserConfig({
             "/resume/#executive-summary",
 	    "/resume/#working-experience",
 	    "/resume/#projects",
-	    "/resume/#education-qualifications",
-	    "/resume/#misc-information",
+	    "/resume/#education",
+	    "/resume/#qualifications",
 	
           ],
         },
