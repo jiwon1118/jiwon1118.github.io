@@ -1,8 +1,8 @@
 ---
 home: true
 
-heroImage: /images/hero.webp
-heroImageDark: /images/ninja-turtles.png
+heroImage: /images/apple.png
+heroImageDark: /images/leaf.png
 
 heroText: 'team blog@sunsin.shop'
 title: team.sunsin
@@ -20,12 +20,12 @@ actions:
 
 
 features:
-- title: team TIGER
-  details: Cashmallow Development Team. A person-centered devops-friendly software developer organization that makes and operates more than customers want one step faster than the market.
-- title: cashmallow
-  details: troublesome currency exchange that had to do before departue. start a reliable trip by using Cashmallow exchange service.
-- title: mallowLINK
-  details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
+- title: Hobby✈️
+  details: I love traveling and planning trips. I find great joy in exploring new cultures and immersing myself in local experiences.
+- title: Jiwon💜
+  details: My name is Baek jiwon, a 24-year-old from South Korea with a passion for data analysis.
+- title: team SUNSIN⛵
+  details: I'm really looking forward to this new project. I'll do my best to learn everything I can and contribute to the team.
 
 footer: blog@jiwon. 2025.
 ---

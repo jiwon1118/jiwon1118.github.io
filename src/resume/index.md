@@ -1,53 +1,42 @@
 
 
-
 # Resume
 
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/park.png">
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/purple.png">
+
 
 <span style="float:right;padding:6px"> 
-  someone@gmail.com <br> mobile: +82 xxxxxxxx <br> Nationality: Korea
+ ✉️ someone@gmail.com <br> 📱mobile: +82 xxxxxxxx <br> 🌐Nationality: Korea
 </span>
 
 # JIWON
 
-## Executive Summary
+## Executive Summary📑
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* As a recent graduate, I am eager to apply my knowledge of data analysis and machine learning to real-world problems and contribute to innovative projects.
+* I have a solid foundation in data analysis, visualization, and statistics.
+* Have experience with Python, SQL, R and JavaScript.
 
-## Working Experience
+## Working Experience💻
 
-#### Current Company (Project Manager, 2015/08 - present) 
+* Recent graduate
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+## Projects📊
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+* not yet (-ing)
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+## Education📖
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+* Lg U+ whynot sw camp (2024/12 - 2025/06)
+* Data Science of Suwon University (2019 - 2023)
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+## Qualifications📃
 
-## Projects: 
+* SQLD
+* Adsp (planned)
+* 빅데이터 분석기사 (planned)
+* Dasp (planned)
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+## Misc. Information🗣️
 
-## Education & Qualifications
-
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
-
-## Misc. Information
-
-* Languages: English (soso), Korean (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+* Languages: English (soso), Korean (fluent/native), Mandarin (studying)
