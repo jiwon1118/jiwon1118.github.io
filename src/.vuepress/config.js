@@ -9,13 +9,13 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team sunsin',
-  description: "study hard.",
+  title: 'JIWON',
+  description: "느리지만 열심히 배워가는 팀순신샵 거북이즈 막내입니다. 신입 데이터 분석가 지망생을 소개드립니다. 얼른 만나보세요.",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'tech-blog:jiwon1118' }],
-    ['meta', { property: 'og:description', content: "Hello!" }],
+    ['meta', { property: 'og:title', content: '팀순신샵. 신입 데이터 분석가 지망생.' }],
+    ['meta', { property: 'og:description', content: "느리지만 열심히 배워가는 팀순신샵 거북이즈 막내. 신입 데이터 분석가 지망생을 만나보세요." }],
     ['meta', { property: 'og:image', content: 'https://jiwon1118.github.io/images/jiwon-template.png' }],
     ['meta', { property: 'og:url', content: 'https://jiwon1118.github.io' }],
   ],
@@ -91,12 +91,7 @@ export default defineUserConfig({
           text: "resume",
           collapsible: true,
           children: [
-            "/resume/#executive-summary",
-	    "/resume/#working-experience",
-	    "/resume/#projects",
-	    "/resume/#education",
-	    "/resume/#qualifications",
-	
+	    "/resume",
           ],
         },
         {
