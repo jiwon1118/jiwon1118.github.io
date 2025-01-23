@@ -9,7 +9,7 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'JIWON',
+  title: 'Team Sunsin',
   description: "느리지만 열심히 배워가는 팀순신샵 거북이즈 막내입니다. 신입 데이터 분석가 지망생을 소개드립니다. 얼른 만나보세요.",
 
   head: [
